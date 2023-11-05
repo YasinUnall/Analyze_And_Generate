@@ -7,4 +7,4 @@ This program will read the data.txt file and analyze the words in that or it wil
 
 Interestingly enough, if you use same seeds in both models and optimize this neural network to a point that Loss changes only so slightly, they generate exact same words. You check to see that by looking the outputs of these models.
 
-- mlp_neural_network.ipynb: Still in progress...
+- mlp_neural_network.ipynb: This is based on multi-layer neural network Multilayer Perceptron coded by using python and pytorch. It has 3 layers including one hidden layer. It's basic logic and produced results are same with basic neural network version. With that said, this is more flexible and complex model than said previous version.
